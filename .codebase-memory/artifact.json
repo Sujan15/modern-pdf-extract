@@ -1,0 +1,11 @@
+{
+    "schema_version": 2,
+    "commit": "",
+    "indexed_at": "2026-10-08T11:17:18Z",
+    "project": "G-ETL-DEMO-WORK-ETL_BEST_PRACTICES-universal-document-intelligence",
+    "nodes": 42874,
+    "edges": 159835,
+    "original_size": 120455168,
+    "compressed_size": 12085228,
+    "compression_level": 9
+}
